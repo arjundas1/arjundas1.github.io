@@ -56,11 +56,11 @@
     - tag: Science
     - tag: Mathematics
     - tag: Physical Education
-  timeline-side: left
+  timeline-side: right
 
 - title: St. Joan's School, Salt Lake
   title-url: https://stjoans.edu.in/index.php/home/
   date: 2006 - 2011
   tags:
     - tag: Primary School
-  timeline-side: right
+  timeline-side: left
