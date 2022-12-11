@@ -1,0 +1,17 @@
+- name: GitHub
+  weight: 5
+
+- name: Git
+  weight: 5
+
+- name: MySQL
+  weight: 5
+
+- name: MongoDB
+  weight: 5
+
+- name: Bash
+  weight: 4
+
+- name: BigQuery
+  weight: 3

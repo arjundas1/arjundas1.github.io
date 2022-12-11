@@ -1,0 +1,66 @@
+- title: Zoetis Inc.
+  title-url: https://www.zoetis.com/
+  date: Jun 2022 - Jul 2022
+  subtitle: Software Engineer Intern
+  tags:
+    - tag: Supply Chain
+    - tag: Outsourcing
+    - tag: Operations
+    - tag: SmartSheet
+    - tag: Java
+    - tag: Excel
+  timeline-side: right
+
+- title: NM Dev
+  title-url: https://nm.dev/
+  date: Feb 2022 - May 2022
+  subtitle: Machine Learning Research Intern
+  tags:
+    - tag: Java
+    - tag: Kotlin
+    - tag: Machine Learning
+    - tag: Statistics
+    - tag: S2 IDE
+    - tag: WordPress
+    - tag: Elementor
+  timeline-side: left
+
+- title: Vellore Institute of Technology, Vellore
+  title-url: https://vit.ac.in/
+  date: 2020 - 2024
+  tags:
+    - tag: Computer Science and Engineering
+    - tag: Specialization - Data Science
+  timeline-side: right
+
+- title: Ryan International School, Kharghar
+  title-url: https://www.ryangroup.org/ryaninternational/icse/navi-mumbai/ryan-international-school-kharghar
+  date: 2020 - 2024
+  tags:
+    - tag: ISC (XII)
+    - tag: English
+    - tag: Physics
+    - tag: Chemistry
+    - tag: Mathematics
+    - tag: Biology
+  timeline-side: left
+
+- title: Sanjivani International School, Kharghar
+  title-url: https://www.sanjivaniis.com/
+  date: 2011 - 2020
+  tags:
+    - tag: ICSE (X)
+    - tag: English
+    - tag: Hindi
+    - tag: History, Civics and Geography
+    - tag: Science
+    - tag: Mathematics
+    - tag: Physical Education
+  timeline-side: left
+
+- title: St. Joan's School, Salt Lake
+  title-url: https://stjoans.edu.in/index.php/home/
+  date: 2006 - 2011
+  tags:
+    - tag: Primary School
+  timeline-side: right

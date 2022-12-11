@@ -1,0 +1,17 @@
+- name: Python
+  weight: 5
+
+- name: Java
+  weight: 4
+
+- name: C++
+  weight: 4
+
+- name: C
+  weight: 3
+
+- name: R
+  weight: 3
+
+- name: MATLAB
+  weight: 2
